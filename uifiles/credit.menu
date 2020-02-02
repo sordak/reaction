@@ -1974,7 +1974,7 @@
 	textalignx 220
 	textaligny 80
 	text "THIS HAS BEEN A BOOMSTICK STUDIOS\nPRODUCTION\n\n"
-	     "Copyright 2000 - 2019"
+	     "Copyright 2000 - 2020"
 	autowrapped
 	visible 1
 	decoration
